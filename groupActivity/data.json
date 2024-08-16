@@ -1,0 +1,168 @@
+[
+    {
+      "orgUnit": "Org1",
+      "code": "GA-KM-01/KD-01",
+      "nameOfCSO": "Reach Out Mbuya",
+      "groupType": "VSLA Group",
+      "subGroup": "SPM Training",
+      "activity": "SPM",
+      "description": "KNOWLEDGE A",
+      "dateOfActivity": "2023-03-19",
+      "venue": "Venue A"
+    },
+    {
+      "orgUnit": "Org2",
+      "code": "GA-KM-01/KD-02",
+      "nameOfCSO": "Community Health",
+      "groupType": "Youth Group",
+      "subGroup": "Health Workshop",
+      "activity": "Workshop",
+      "description": "HEALTH B",
+      "dateOfActivity": "2023-04-15",
+      "venue": "Venue B"
+    },
+    {
+      "orgUnit": "Org3",
+      "code": "GA-KM-01/KD-03",
+      "nameOfCSO": "Health Outreach",
+      "groupType": "Women Group",
+      "subGroup": "HIV Awareness",
+      "activity": "Campaign",
+      "description": "AWARENESS C",
+      "dateOfActivity": "2023-05-10",
+      "venue": "Venue C"
+    },
+    {
+      "orgUnit": "Org1",
+      "code": "GA-KM-01/KD-04",
+      "nameOfCSO": "Youth Empowerment",
+      "groupType": "Youth Group",
+      "subGroup": "Career Guidance",
+      "activity": "Workshop",
+      "description": "CAREER D",
+      "dateOfActivity": "2023-06-01",
+      "venue": "Venue D"
+    },
+    {
+      "orgUnit": "Org2",
+      "code": "GA-KM-01/KD-05",
+      "nameOfCSO": "Agriculture Cooperative",
+      "groupType": "Farmers Group",
+      "subGroup": "Crop Management",
+      "activity": "Training",
+      "description": "CROPS E",
+      "dateOfActivity": "2023-07-20",
+      "venue": "Venue E"
+    },
+    {
+      "orgUnit": "Org3",
+      "code": "GA-KM-01/KD-06",
+      "nameOfCSO": "Community Development",
+      "groupType": "Community Group",
+      "subGroup": "Skill Development",
+      "activity": "Workshop",
+      "description": "SKILLS F",
+      "dateOfActivity": "2023-08-05",
+      "venue": "Venue F"
+    },
+    {
+      "orgUnit": "Org1",
+      "code": "GA-KM-01/KD-07",
+      "nameOfCSO": "Environmental Protection",
+      "groupType": "Green Group",
+      "subGroup": "Climate Action",
+      "activity": "Campaign",
+      "description": "CLIMATE G",
+      "dateOfActivity": "2023-09-12",
+      "venue": "Venue G"
+    },
+    {
+      "orgUnit": "Org2",
+      "code": "GA-KM-01/KD-08",
+      "nameOfCSO": "Women's Rights",
+      "groupType": "Women Group",
+      "subGroup": "Gender Equality",
+      "activity": "Workshop",
+      "description": "GENDER H",
+      "dateOfActivity": "2023-10-15",
+      "venue": "Venue H"
+    },
+    {
+      "orgUnit": "Org3",
+      "code": "GA-KM-01/KD-09",
+      "nameOfCSO": "Mental Health Support",
+      "groupType": "Support Group",
+      "subGroup": "Mental Health",
+      "activity": "Counseling",
+      "description": "MENTAL I",
+      "dateOfActivity": "2023-11-20",
+      "venue": "Venue I"
+    },
+    {
+      "orgUnit": "Org1",
+      "code": "GA-KM-01/KD-10",
+      "nameOfCSO": "Tech for Good",
+      "groupType": "Tech Group",
+      "subGroup": "Coding Bootcamp",
+      "activity": "Training",
+      "description": "TECH J",
+      "dateOfActivity": "2023-12-05",
+      "venue": "Venue J"
+    },
+    {
+      "orgUnit": "Org2",
+      "code": "GA-KM-01/KD-11",
+      "nameOfCSO": "Art and Culture",
+      "groupType": "Cultural Group",
+      "subGroup": "Art Workshop",
+      "activity": "Workshop",
+      "description": "ART K",
+      "dateOfActivity": "2024-01-25",
+      "venue": "Venue K"
+    },
+    {
+      "orgUnit": "Org3",
+      "code": "GA-KM-01/KD-12",
+      "nameOfCSO": "Sports for All",
+      "groupType": "Sports Group",
+      "subGroup": "Football Training",
+      "activity": "Training",
+      "description": "SPORT L",
+      "dateOfActivity": "2024-02-14",
+      "venue": "Venue L"
+    },
+    {
+      "orgUnit": "Org1",
+      "code": "GA-KM-01/KD-13",
+      "nameOfCSO": "Health and Wellness",
+      "groupType": "Health Group",
+      "subGroup": "Wellness Workshop",
+      "activity": "Workshop",
+      "description": "WELLNESS M",
+      "dateOfActivity": "2024-03-10",
+      "venue": "Venue M"
+    },
+    {
+      "orgUnit": "Org2",
+      "code": "GA-KM-01/KD-14",
+      "nameOfCSO": "Youth Leadership",
+      "groupType": "Youth Group",
+      "subGroup": "Leadership Training",
+      "activity": "Training",
+      "description": "LEADERSHIP N",
+      "dateOfActivity": "2024-04-05",
+      "venue": "Venue N"
+    },
+    {
+      "orgUnit": "Org3",
+      "code": "GA-KM-01/KD-15",
+      "nameOfCSO": "Digital Literacy",
+      "groupType": "Tech Group",
+      "subGroup": "Coding Workshop",
+      "activity": "Workshop",
+      "description": "CODING O",
+      "dateOfActivity": "2024-05-22",
+      "venue": "Venue O"
+    }
+  ]
+  
